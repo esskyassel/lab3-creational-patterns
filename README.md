@@ -1,2 +1,10 @@
-# lab3-creational-patterns
-Lab 3 - Creational Design Patterns
+# Лаба 3 — Порождающие паттерны проектирования
+
+В репозитории реализованы следующие порождающие паттерны:
+
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
+
+Язык программирования: Java
